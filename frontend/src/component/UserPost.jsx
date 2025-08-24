@@ -1,5 +1,4 @@
-import { Box, Flex, Text, Link } from "@chakra-ui/layout";
-import { Avatar, Image } from "@chakra-ui/react";
+import { Box, Flex, Text, Link, Avatar, Image } from "@chakra-ui/react";
 import { useState } from "react";
 import { BsThreeDots } from "react-icons/bs";
 import post1 from "../../public/post1.png";
